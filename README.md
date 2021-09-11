@@ -9,6 +9,6 @@ My name is **Oyindamola**, I am a Solidity Smart Contract Developer
 - 👯 I’m looking to collaborate on all sort of interesting thing
 - 🤔 I’m looking for help with interesting things
 - 💬 Ask me about interesting things
-- 📫 How to reach me: twitter.com/miield
+- 📫 How to reach me: [@miield](https://twitter.com/miield)
 - 😄 Pronouns: That Tech Sis
 - ⚡ Fun fact: I love beatiful things and places
